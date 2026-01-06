@@ -1,0 +1,9 @@
+{
+  "name": "Web3 Infra Forge",
+  "description": "An advanced, futuristic Web3 infrastructure onboarding and deployment system with AI-powered architecture optimization and real-time network insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
